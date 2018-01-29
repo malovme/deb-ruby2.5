@@ -1,4 +1,4 @@
-ruby2.5 (2.5.0-4bbox1~xenial2) xenial; urgency=medium
+ruby2.5 (2.5.0-4bbox2~xenial1) xenial; urgency=medium
 
   * Relax dependencies inline with other Brightbox Ruby packages
   * Add alternatives installation hooks for use with ruby-switch
