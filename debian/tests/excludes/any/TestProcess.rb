@@ -4,3 +4,4 @@ exclude :test_popen_wordsplit_beginning_and_trailing_spaces, "fails under sbuild
 exclude :test_spawn_wordsplit, "fails under sbuild"
 exclude :test_status_quit, "fails under sbuild"
 exclude :test_system_wordsplit, "fails under sbuild"
+exclude :test_execopts_gid, "fails under launchpad"
