@@ -6,7 +6,7 @@ Uploaders: Christian Hofstaedtler <zeha@debian.org>
 Build-Depends: bison,
                chrpath,
                coreutils (>= 7.5),
-               debhelper (>= 10),
+               debhelper (>= 9),
                file,
                libffi-dev,
                libgdbm-dev,
