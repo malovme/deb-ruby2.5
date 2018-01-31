@@ -3,7 +3,8 @@ Section: ruby
 Priority: optional
 Maintainer: Antonio Terceiro <terceiro@debian.org>
 Uploaders: Christian Hofstaedtler <zeha@debian.org>
-Build-Depends: bison,
+Build-Depends: autotools-dev,
+               bison,
                chrpath,
                coreutils (>= 7.5),
                debhelper (>= 9),
