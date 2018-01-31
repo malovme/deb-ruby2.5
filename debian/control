@@ -1,8 +1,7 @@
 Source: ruby2.5
 Section: ruby
 Priority: optional
-Maintainer: Antonio Terceiro <terceiro@debian.org>
-Uploaders: Christian Hofstaedtler <zeha@debian.org>
+Maintainer: John Leach <john@brightbox.co.uk>
 Build-Depends: autotools-dev,
                bison,
                chrpath,
