@@ -1,3 +1,9 @@
+ruby2.5 (2.5.1-1bbox1~xenial4) xenial; urgency=medium
+
+  * New upstream release 2.5.1
+
+ -- John Leach <john@brightbox.co.uk>  Fri, 06 Apr 2018 18:06:37 +0100
+
 ruby2.5 (2.5.0-4bbox6~xenial1) xenial; urgency=medium
 
   * debian/rules: explicitly pass --runstatedir, --localstatedir, and
