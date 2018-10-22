@@ -1,3 +1,10 @@
+ruby2.5 (2.5.3-1bbox1~xenial1) xenial; urgency=medium
+
+  * New upstream release 2.5.3.
+  * Fixes CVE-2018-16396 and CVE-2018-16395.
+
+ -- John Leach <john@brightbox.co.uk>  Mon, 22 Oct 2018 18:09:39 +0100
+
 ruby2.5 (2.5.1-1bbox1~xenial4) xenial; urgency=medium
 
   * New upstream release 2.5.1
