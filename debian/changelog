@@ -1,3 +1,10 @@
+ruby2.5 (2.5.3-1bbox5~bionic1) bionic; urgency=low
+
+  * Skip tests broken by timezone data updates on Bionic
+  * Fix tests broken by expired ssl cert fixtures
+
+ -- John Leach <john@brightbox.co.uk>  Thu, 03 Jan 2019 18:41:37 +0000
+
 ruby2.5 (2.5.3-1bbox1~xenial1) xenial; urgency=medium
 
   * New upstream release 2.5.3.
