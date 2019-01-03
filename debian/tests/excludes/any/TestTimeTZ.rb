@@ -2,3 +2,5 @@ exclude :test_gen_Pacific_Kiritimati_71, "https://bugs.ruby-lang.org/issues/1465
 exclude :test_gen_Pacific_Kiritimati_89, "https://bugs.ruby-lang.org/issues/14655"
 exclude :test_gen_lisbon_99, "https://bugs.ruby-lang.org/issues/14655"
 exclude :test_pacific_kiritimati, "https://bugs.ruby-lang.org/issues/14655"
+exclude :test_gen_Asia_Tokyo_50, "https://bugs.ruby-lang.org/issues/14438"
+exclude :test_gen_Asia_Tokyo_54, "https://bugs.ruby-lang.org/issues/14438"
