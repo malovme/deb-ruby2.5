@@ -1,3 +1,10 @@
+ruby2.5 (2.5.5-1bbox1~bionic1) bionic; urgency=medium
+
+  * New upstream release 2.5.5
+  * Fixes CVE-2019-8320 through 8325 with Rubygems update.
+
+ -- John Leach <john@brightbox.co.uk>  Fri, 15 Mar 2019 10:35:20 +0000
+
 ruby2.5 (2.5.3-1bbox5~bionic1) bionic; urgency=low
 
   * Skip tests broken by timezone data updates on Bionic
